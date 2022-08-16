@@ -10,4 +10,6 @@ Hello world.  How are you today?
 
 $$c^2 = a^2 + b^2$$
 
+adding stuff to the template
+
 # Topic File 2
